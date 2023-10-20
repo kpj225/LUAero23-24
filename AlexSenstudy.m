@@ -2,6 +2,8 @@
 % LU Aero, DBF '212-'23 Sensitivity Study
 %9/14/22
 
+%Succ the Zucc
+
 %% Parameters Defined
 
 clc; clear; close all;
